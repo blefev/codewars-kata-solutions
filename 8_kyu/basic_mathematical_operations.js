@@ -1,0 +1,1 @@
+const basicOp = (o, a, b) => eval(a+o+b)

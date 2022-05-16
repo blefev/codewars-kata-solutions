@@ -1,0 +1,1 @@
+def correct(s)s.tr'501','SOI'end
